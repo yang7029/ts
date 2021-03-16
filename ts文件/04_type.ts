@@ -265,3 +265,5 @@
 // // 安装插件，可以兼容到不同的浏览器 bable  在module里面配置
 // npm i - D @babel/core @babel/preset-env（提前预制了环境，预先设置的环境） babel-loader（把webpack和bable结合） core-js（模拟js的运行环境，就是老版本的浏览器用到最新的技术）
 
+// test
+
